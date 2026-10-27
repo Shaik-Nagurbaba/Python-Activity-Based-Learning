@@ -1,4 +1,4 @@
-#Name: Shaik Nagurbaba
+Name: Shaik Nagurbaba
 
 Section: CSM3
 
